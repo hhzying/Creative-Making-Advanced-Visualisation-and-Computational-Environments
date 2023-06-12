@@ -21,7 +21,6 @@ Video link: https://youtu.be/qNR6dki9vm0
         WEEK1 :Game Concept + Brainstorming(figma link: https://www.figma.com/file/rPz4M1MhreoOGhFOa0GCIv/ants-game-project-team?type=whiteboard&node-id=0-1&t=Kun7GsawuuaR0q0U-0);
         
         WEEK2 :Game character design + modeling (Zewen Xue);
-               
                Game concept, level design (Zhiying Hong/Tingting Peng/Yushang Cao);
         
         WEEK3-5 :Game Character Mapping Design (Zewen Xue);
