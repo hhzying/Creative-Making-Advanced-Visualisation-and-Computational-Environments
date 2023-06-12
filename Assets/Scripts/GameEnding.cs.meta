@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3f26793e53e310f46bfa1746f5f048d7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 7902721116810423784, guid: 77779e799573cd547be46737b2b5e75d, type: 3}
+  - exitBackgroundImageCanvasGroup: {instanceID: 0}
+  - caughtBackgroundImageCanvasGroup: {instanceID: 0}
+  - exitAudio: {instanceID: 0}
+  - caughtAudio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,34 @@
+{
+    "name": "Player controls",
+    "maps": [
+        {
+            "name": "GamePlay",
+            "id": "34cf5eb1-65ab-4e84-a4a0-736a65a6dd4f",
+            "actions": [
+                {
+                    "name": "Grow",
+                    "type": "Button",
+                    "id": "28c1889c-5009-4f9b-830a-3a8c57d1e965",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6df028be-6f9f-4d9d-9933-67f4ae3e54f7",
+                    "path": "<Joystick>/stick/down",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Grow",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
