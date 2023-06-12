@@ -12,7 +12,7 @@ Video link: https://youtu.be/qNR6dki9vm0
         
         Zewen Xue -- Student id:21009879
         
-        Tingting Peng -- Student id:
+        Tingting Peng -- Student id: 21018604
         
         Yushang Cao -- Student id:
 
