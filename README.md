@@ -5,7 +5,7 @@ Term 3 Course "Creative Making: Advanced Visualisation and Computational Environ
 This team is made up of 4 modular students.
    
    Team members:
-        Zhiying Hong -- Student id:21020261
-        Zewen Xue -- Student id:
-        Tingting Peng -- Student id:
-        Yushang Cao -- Student id:
+        Zhiying Hong -- Student id:21020261/
+        Zewen Xue -- Student id:21009879/
+        Tingting Peng -- Student id:/
+        Yushang Cao -- Student id:/
