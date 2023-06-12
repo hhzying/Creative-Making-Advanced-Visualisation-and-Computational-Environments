@@ -2,7 +2,9 @@
 
 Term 3 Course "Creative Making: Advanced Visualisation and Computational Environments" in UAL CCI.
 
-This team is made up of 4 modular students.
+This team is made up of 4 modular students. 
+
+Video link: https://youtu.be/qNR6dki9vm0
    
    Team members:
    
@@ -39,5 +41,5 @@ This team is made up of 4 modular students.
                  Game Transition Animation Design (Yushang Cao & Zewen Xue);
 
         WEEK9 :Invite players to test the game and shoot videos (Together);
-               Video editing (Zewen Xue: https://youtu.be/qNR6dki9vm0);
+               Video outcome (Zewen Xue: https://youtu.be/qNR6dki9vm0);
                PDF outcome (Together)(figma link: https://www.figma.com/file/UX7J63821qptadkdCm1O18/ants-game-project-team-library?type=design&node-id=0-1&t=) 2YvotM58bYdhotk2-0);
