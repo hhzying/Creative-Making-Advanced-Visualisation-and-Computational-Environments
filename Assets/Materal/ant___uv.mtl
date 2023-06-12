@@ -1,0 +1,6 @@
+# Exported from Nomad Sculpt
+
+newmtl lambert5SG
+ map_Kd polySurface_80_color_1.png
+ map_roughness polySurface_80_roughness_1.png
+ map_metallic polySurface_80_metalness_1.png
